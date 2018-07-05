@@ -1,0 +1,16 @@
+{
+  "name": "module_4_ta",
+  "version": "1.0.0",
+  "description": "Math Machine READ ME",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
